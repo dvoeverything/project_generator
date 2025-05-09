@@ -1,0 +1,6 @@
+{
+    "1": { "max_mech_parts": 10, "max_span_cm": 20, "max_io": 0, "code": "none" },
+    "3": { "max_mech_parts": 16, "max_span_cm": 40, "max_io": 2, "code": "makecode" },
+    "5": { "max_mech_parts": 25, "max_span_cm": 60, "max_io": 2, "code": "python30" }
+  }
+  
