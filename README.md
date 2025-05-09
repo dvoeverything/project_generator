@@ -1,6 +1,6 @@
 # 0. Installing prerequisites:
 ## global tools
-npm   i -g supabase                     # Supabase CLI  :contentReference[oaicite:0]{index=0}
+npm   i -g supabase\               
 pip  install supabase openai guardrails-ai pydantic \
               pdfplumber playwright unstructured pinecone-client \
               langchain-community langchain-openai
